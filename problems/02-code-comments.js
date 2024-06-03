@@ -8,16 +8,17 @@ file.
 console.log('Welcome to App Academy!');
 
 /* Print more messages to the terminal using console.log */
+console.log("Hi there");
 
 // 2. This is a single line comment.
-// console.log('This is will not be printed to the terminal')
 // Try adding your own single line comments:
+// Your code here ghyg
 
-// Your code here 
 
 /* 3.
 This is a multi-line comment.
 Try adding your own multi-line comments:
 */
-
 // Your code here 
+/* hi
+*/
